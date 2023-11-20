@@ -1,0 +1,25 @@
+{
+  "name": "readme-creator",
+  "version": "1.0.0",
+  "description": "creates a readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MLevey92/README-creator.git"
+  },
+  "keywords": [
+    "nah"
+  ],
+  "author": "Mike Levey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MLevey92/README-creator/issues"
+  },
+  "homepage": "https://github.com/MLevey92/README-creator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
